@@ -28,4 +28,4 @@ class Hero {
 }
 
 let hero1 = new Hero('Shena', 20, 'warrior');
-console.log(hero1.attack());
+hero1.attack()
