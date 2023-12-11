@@ -1,4 +1,4 @@
-# Rank Calculator Challenge
+# Game Class Challenge
 
 This is a challenge from the DIO Bootcamp Potência Tech iFood - Programação do Zero. 
 
